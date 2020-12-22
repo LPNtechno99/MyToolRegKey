@@ -1,0 +1,17 @@
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\bin\Debug\ToolLicensenkey.exe.config
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\bin\Debug\ToolLicensenkey.exe
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\bin\Debug\ToolLicensenkey.pdb
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey.csprojAssemblyReference.cache
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\MainWindow.g.cs
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\App.g.cs
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey_MarkupCompile.cache
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey_MarkupCompile.lref
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\MainWindow.baml
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey.g.resources
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey.Properties.Resources.resources
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey.csproj.GenerateResource.cache
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey.csproj.CoreCompileInputs.cache
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey.exe
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey.pdb
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\bin\Debug\FoxLearn.License.dll
+D:\Local Disk F_742018351\DU_AN_CA_NHAN\Tool\ToolLicensenkey\ToolLicensenkey\obj\Debug\ToolLicensenkey.csproj.CopyComplete
